@@ -1,0 +1,12 @@
+C:\Users\maxgu\source\repos\Console App Calculator\Console App Calculator\bin\Release\netcoreapp3.1\Console App Calculator.exe
+C:\Users\maxgu\source\repos\Console App Calculator\Console App Calculator\bin\Release\netcoreapp3.1\Console App Calculator.deps.json
+C:\Users\maxgu\source\repos\Console App Calculator\Console App Calculator\bin\Release\netcoreapp3.1\Console App Calculator.runtimeconfig.json
+C:\Users\maxgu\source\repos\Console App Calculator\Console App Calculator\bin\Release\netcoreapp3.1\Console App Calculator.runtimeconfig.dev.json
+C:\Users\maxgu\source\repos\Console App Calculator\Console App Calculator\bin\Release\netcoreapp3.1\Console App Calculator.dll
+C:\Users\maxgu\source\repos\Console App Calculator\Console App Calculator\bin\Release\netcoreapp3.1\Console App Calculator.pdb
+C:\Users\maxgu\source\repos\Console App Calculator\Console App Calculator\obj\Release\netcoreapp3.1\Console App Calculator.AssemblyInfoInputs.cache
+C:\Users\maxgu\source\repos\Console App Calculator\Console App Calculator\obj\Release\netcoreapp3.1\Console App Calculator.AssemblyInfo.cs
+C:\Users\maxgu\source\repos\Console App Calculator\Console App Calculator\obj\Release\netcoreapp3.1\Console App Calculator.csproj.CoreCompileInputs.cache
+C:\Users\maxgu\source\repos\Console App Calculator\Console App Calculator\obj\Release\netcoreapp3.1\Console App Calculator.dll
+C:\Users\maxgu\source\repos\Console App Calculator\Console App Calculator\obj\Release\netcoreapp3.1\Console App Calculator.pdb
+C:\Users\maxgu\source\repos\Console App Calculator\Console App Calculator\obj\Release\netcoreapp3.1\Console App Calculator.genruntimeconfig.cache
